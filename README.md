@@ -1,5 +1,5 @@
-# Seju
-Open this link 🔗🖇️
+# Seju ❤️
+
 <!DOCTYPE html>
 <html>
 <head>
